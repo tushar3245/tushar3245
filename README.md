@@ -1,8 +1,8 @@
 
 ![Web Developer](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHdlYiUyMGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60)
 
- Hi, I'm Abdur rahim 👋
-👑 I am Full Stack Web Developer
+ Hi, I'm Abdur rahim 👋</br>
+👑 I am Full Stack Web Developer</br>
 🖊️ Love to write code
 🎤 Like to share my knowledge 
 
