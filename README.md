@@ -12,12 +12,12 @@ I am a web developer. I have 2 and a half year  year of experience in the web de
 
 <h2>👨‍💻 Skills & Experiance:</h2>
 
-✅ PHP
-✅ PHP-LARAVEL
-✅ OOP
-✅ WordPress
-✅ JavaScript
-✅ HTML5 / CSS / Bootstrap
+✅ PHP</br>
+✅ PHP-LARAVEL</br>
+✅ OOP</br>
+✅ WordPress</br>
+✅ JavaScript</br>
+✅ HTML5 / CSS / Bootstrap</br>
 ✅ MS WORD / MS EXCEL
 
 
