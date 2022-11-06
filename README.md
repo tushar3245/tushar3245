@@ -3,7 +3,7 @@
 
  Hi, I'm Abdur rahim 👋</br>
 👑 I am Full Stack Web Developer</br>
-🖊️ Love to write code
+🖊️ Love to write code</br>
 🎤 Like to share my knowledge 
 
 
