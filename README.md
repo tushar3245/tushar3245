@@ -6,10 +6,26 @@
 🖊️ Love to write code</br>
 🎤 Like to share my knowledge 
 
-
+<h2>🚀 About Me</h2>
 I am a web developer. I have 2 and a half year  year of experience in the web development sector. I read also in Honors 2nd year.I started working in web development in 2020. 
 
-Skills: HTML / CSS / JS / PHP/ PHP-LARAVEL/OOP/BOOTSTAP/MS WORD/MS EXCEL
+
+<h2>👨‍💻 Skills & Experiance:</h2>
+
+✅ PHP
+✅ PHP-LARAVEL
+✅ OOP
+✅ WordPress
+✅ JavaScript
+✅ HTML5 / CSS / Bootstrap
+✅ MS WORD / MS EXCEL
+
+
+
+
+
+
+
 
 - 🌱 I’m currently learning Payment Gateway 
 - 💬 Ask me about Web Development 
