@@ -7,7 +7,7 @@
 🎤 Like to share my knowledge 
 
 <h2>🚀 About Me</h2>
-I am a web developer. I have 2 and a half year  year of experience in the web development sector. I read also in Honors 2nd year.I started working in web development in 2020. 
+I am a web developer. I have 3 year  year of experience in the web development sector. I read also in Honors 2nd year.I started working in web development in 2020. 
 
 
 <h2>👨‍💻 Skills & Experiance:</h2>
